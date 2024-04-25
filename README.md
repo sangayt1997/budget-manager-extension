@@ -6,4 +6,4 @@
 1. Open Chrome and navigate to `chrome://extensions/`
 2. Toggle on `Developer mode` in the top right corner
 3. Click `Load unpacked`
-4. Select the entire project folder
+4. Select the entire project folder 
