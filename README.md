@@ -1,6 +1,6 @@
-# Budget Manager Extension
+# Budget Manager Extension 
 
-### Getting Started
+### Getting Started 
 
 ## Loading The Chrome Extension
 1. Open Chrome and navigate to `chrome://extensions/`
